@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-RapidAPI-Key" />
+                    <option name="value" value="5bb62266femsh3015d0d207c3fe6p125406jsn991486cb035c" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="X-RapidAPI-Host" />
+                    <option name="value" value="tasty.p.rapidapi.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="16034875-5d28-42c8-845c-18c85a4b6661" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="prefix" />
+                    <option name="value" value="chicken soup" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="https://tasty.p.rapidapi.com/recipes/auto-complete?prefix=chicken soup" />
+            </requestState>
+            <requestState>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="X-RapidAPI-Key" />
+                    <option name="value" value="5bb62266femsh3015d0d207c3fe6p125406jsn991486cb035c" />
+                  </headerState>
+                  <headerState>
+                    <option name="key" value="X-RapidAPI-Host" />
+                    <option name="value" value="tasty.p.rapidapi.com" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="b7d45b5e-0d24-4f86-96df-f26958f959ca" />
+              <option name="method" value="GET" />
+              <option name="name" value="Draft 1" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="from" />
+                    <option name="value" value="0" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="tags" />
+                    <option name="value" value="under_30_minutes" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="size" />
+                    <option name="value" value="20" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="https://tasty.p.rapidapi.com/recipes/list?from=0&amp;tags=under_30_minutes&amp;size=20" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="id" value="4b6d212b-c551-4276-9530-608f93b7a411" />
+  </component>
+</project>
